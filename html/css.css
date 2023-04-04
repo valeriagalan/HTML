@@ -1,0 +1,48 @@
+body{
+    background: aqua;
+    list-style: 0px;
+}
+ 
+.menu{
+    background: rgb(238, 188, 188);
+    color: aliceblue;
+ }
+
+ nav.Baner-Principal{
+    color:rgb(153, 9, 182) ;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+  
+
+ }
+ 
+ li.item-texto a{
+ 
+    color: #222;
+    text-decoration: none;
+    padding-left: 20%;
+    margin: .75rem;
+  display: flex;
+  align-items: center;
+
+  }
+
+  .texto {
+    color:brown ;
+    text-align: center;
+  }
+  .parrafo{
+    text-align: left;
+    margin: auto;
+  }
+
+footer{
+    background-color: black;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 40px;
+      color: white;
+}
